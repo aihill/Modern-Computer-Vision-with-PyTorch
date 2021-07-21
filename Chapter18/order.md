@@ -1,0 +1,5 @@
+86_Drawing_bounding_boxes_around_words_in_an_image.ipynb <br>
+87_detecting_lanes_in_the_image_of_a_road.ipynb <br>
+88_detecting_objects_based_on_color.ipynb <br>
+89_building_a_panoramic_view_of_images.ipynb <br>
+90_detecting_the_number_plate_of_a_car.ipynb <br>
